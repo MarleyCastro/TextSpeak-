@@ -1,7 +1,7 @@
 # 🎙️ Text-to-Speech App (Leitor de Texto)
 
-![Capa do Projeto](https://via.placeholder.com/1000x300/0d0d0d/e8ff47?text=Text-to-Speech+App)
-> *Substitua o link acima pela URL de uma captura de tela real da sua aplicação.*
+<img width="1752" height="845" alt="image" src="https://github.com/user-attachments/assets/42885e36-e970-42f7-b58a-af90fb6aa952" />
+
 
 ## 🏅 Badges
 ![Status](https://img.shields.io/badge/Status-Em_Desenvolvimento-e8ff47?style=for-the-badge&logoColor=000)
